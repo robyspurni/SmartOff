@@ -1,0 +1,9 @@
+ro\orange\smartoff\SmartoffApplication.class
+ro\orange\smartoff\model\TokenResponse.class
+ro\orange\smartoff\service\ParkingService.class
+ro\orange\smartoff\model\ReservationRequest$ReservationRequestBuilder.class
+ro\orange\smartoff\model\ReservationRequest.class
+ro\orange\smartoff\model\TokenConfig.class
+ro\orange\smartoff\service\EmailService.class
+ro\orange\smartoff\model\ReservationResponse.class
+ro\orange\smartoff\Config.class
